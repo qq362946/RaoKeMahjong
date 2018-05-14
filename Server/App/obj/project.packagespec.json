@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/App/Server.App.csproj",
+    "projectName": "Server.App",
+    "projectPath": "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/App/Server.App.csproj",
+    "outputPath": "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/App/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/Model/Server.Model.csproj": {
+            "projectPath": "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/Model/Server.Model.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "NLog": {
+          "target": "Package",
+          "version": "[4.5.0-rc04, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
