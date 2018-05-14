@@ -1,0 +1,69 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/Model/Server.Model.csproj",
+    "projectName": "Server.Model",
+    "projectPath": "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/Model/Server.Model.csproj",
+    "outputPath": "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/Model/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Bson/MongoDB.Bson.csproj": {
+            "projectPath": "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Bson/MongoDB.Bson.csproj"
+          },
+          "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj": {
+            "projectPath": "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj"
+          },
+          "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Driver/MongoDB.Driver.csproj": {
+            "projectPath": "/Users/sining/Projects/JuAnChess/RaoKeMahjong/Server/ThirdParty/MongodbDriver/DotNetCoreDriver/MongoDB.Driver/MongoDB.Driver.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "CommandLineParser": {
+          "target": "Package",
+          "version": "[2.2.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "NLog": {
+          "target": "Package",
+          "version": "[4.5.0-rc04, )"
+        },
+        "SharpZipLib": {
+          "target": "Package",
+          "version": "[1.0.0-alpha2, )"
+        },
+        "protobuf-net": {
+          "target": "Package",
+          "version": "[2.3.4, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

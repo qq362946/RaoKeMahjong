@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e12ada70-64eb-4778-965e-8fbff62e6b6b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="OperaComponent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/OperaComponent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+              <folding>
+                <marker date="1526280821579" expanded="true" signature="6:47" ph="..." />
+                <marker date="1526280821579" expanded="true" signature="67:1534" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="161:260" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="220:254" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="349:432" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="403:429" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="473:1532" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="566:627" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="657:1189" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="712:1179" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="903:1165" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="1225:1526" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="1242:1462" ph="{...}" />
+                <marker date="1526280821579" expanded="true" signature="1488:1522" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UILoginComponent.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Unity/Hotfix/UI/UILogin/Component/UILoginComponent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+              <folding>
+                <marker date="1526282362705" expanded="false" signature="6:87" ph="..." />
+                <marker date="1526282362705" expanded="true" signature="107:2448" ph="{...}" />
+                <marker date="1526282362705" expanded="true" signature="194:277" ph="{...}" />
+                <marker date="1526282362705" expanded="true" signature="249:274" ph="{...}" />
+                <marker date="1526282362705" expanded="true" signature="321:2446" ph="{...}" />
+                <marker date="1526282362705" expanded="true" signature="408:663" ph="{...}" />
+                <marker date="1526282362705" expanded="true" signature="694:2443" ph="{...}" />
+                <marker date="1526282362705" expanded="true" signature="705:2388" ph="{...}" />
+                <marker date="1526282362705" expanded="true" signature="2411:2439" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Config/ConfigComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Config/ConfigHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Assets/ThirdParty/ILRuntime/LitJson/IJsonWrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/Actor_CreateUnitsHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Assets/Scripts/Init.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/Actor_TestHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/Frame_ClickMapHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/G2C_TestHotfixHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/OperaComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/TestHotfixSubscribMonoEvent_LogString.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/AMHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/HotfixMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/HotfixMessageDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/IActorMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/IMHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/IMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/MessageDispatherComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/OpcodeTypeComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/UI/UI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/UI/UIComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Helper/ExceptionHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Helper/JsonHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Helper/Log.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Object/Component.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/UI/UILobby/Component/UILobbyComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Object/ComponentWithId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Object/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/UI/UILobby/Factory/UILobbyFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Object/EventSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/UI/UILogin/Component/UILoginComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/UI/UILogin/Event/InitSceneStart_CreateLoginUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/UI/UILogin/Factory/UILoginFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Entity/Config/UnitConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Entity/Scene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Init.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Config/ACategory.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Unity/Hotfix/UI/UILogin/Component/UILoginComponent.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Client" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Hotfix" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Hotfix" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Module" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Hotfix" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UI" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Hotfix" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UI" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UILobby" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Hotfix" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UI" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UILobby" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Component" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Hotfix" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UI" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UILobby" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Factory" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Hotfix" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UI" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UILogin" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Hotfix" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UI" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UILogin" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Component" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Hotfix" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UI" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UILogin" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Event" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Hotfix" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UI" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="UILogin" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Factory" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="RaoKeMahjong (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Server" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach Unity.Attach to Unity Editor" />
+      <item itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e12ada70-64eb-4778-965e-8fbff62e6b6b" name="Default" comment="" />
+      <created>1526281257614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526281257614</updated>
+      <workItem from="1526281260867" duration="1148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1148000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="right" id="JSON Viewer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Init.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <marker date="1526280821576" expanded="true" signature="6:28" ph="..." />
+            <marker date="1526280821576" expanded="true" signature="48:1424" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="76:1422" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="108:1068" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="119:1013" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1036:1064" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1099:1206" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1110:1151" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1174:1202" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1241:1352" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1252:1297" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1320:1348" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1394:1419" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Assets/Scripts/Init.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <marker date="1526280821269" expanded="false" signature="6:56" ph="..." />
+            <marker date="1526280821269" expanded="true" signature="75:2040" ph="{...}" />
+            <marker date="1526280821269" expanded="true" signature="112:2038" ph="{...}" />
+            <marker date="1526280821269" expanded="true" signature="244:1701" ph="{...}" />
+            <marker date="1526280821269" expanded="true" signature="255:1646" ph="{...}" />
+            <marker date="1526280821269" expanded="true" signature="310:515" ph="{...}" />
+            <marker date="1526280821269" expanded="true" signature="1669:1697" ph="{...}" />
+            <marker date="1526280821269" expanded="true" signature="1726:1822" ph="{...}" />
+            <marker date="1526280821269" expanded="true" signature="1851:1930" ph="{...}" />
+            <marker date="1526280821269" expanded="true" signature="1966:2035" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Assets/ThirdParty/ILRuntime/LitJson/IJsonWrapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821424" expanded="false" signature="0:373" ph="Header" />
+            <marker date="1526280821424" expanded="true" signature="15:362" ph="/* IJsonWrapper.cs ... */" />
+            <marker date="1526280821424" expanded="false" signature="382:439" ph="..." />
+            <marker date="1526280821424" expanded="true" signature="459:1406" ph="{...}" />
+            <marker date="1526280821424" expanded="true" signature="486:619" ph="{...}" />
+            <marker date="1526280821424" expanded="true" signature="682:1404" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/UI/UILogin/Factory/UILoginFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821584" expanded="true" signature="6:47" ph="..." />
+            <marker date="1526280821584" expanded="true" signature="67:1027" ph="{...}" />
+            <marker date="1526280821584" expanded="true" signature="146:1025" ph="{...}" />
+            <marker date="1526280821584" expanded="true" signature="226:877" ph="{...}" />
+            <marker date="1526280821584" expanded="true" signature="249:781" ph="{...}" />
+            <marker date="1526280821584" expanded="true" signature="810:873" ph="{...}" />
+            <marker date="1526280821584" expanded="true" signature="915:1019" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/UI/UILogin/Event/InitSceneStart_CreateLoginUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821584" expanded="true" signature="34:243" ph="{...}" />
+            <marker date="1526280821584" expanded="true" signature="124:241" ph="{...}" />
+            <marker date="1526280821584" expanded="true" signature="156:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/UI/UILobby/Factory/UILobbyFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821583" expanded="true" signature="6:47" ph="..." />
+            <marker date="1526280821583" expanded="true" signature="67:1024" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="146:1022" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="226:877" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="249:781" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="810:873" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="915:1016" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/AMHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821579" expanded="true" signature="6:28" ph="..." />
+            <marker date="1526280821579" expanded="true" signature="48:518" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="125:516" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="260:446" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="325:411" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="478:513" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/HotfixMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821580" expanded="true" signature="6:109" ph="..." />
+            <marker date="1526280821580" expanded="true" signature="128:3201" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="224:432" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="528:880" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="983:1120" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="1224:1517" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="1636:1703" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="1825:2041" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="2166:2457" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="2554:2560" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="2665:2744" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="2850:3198" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/HotfixMessageDispatcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821580" expanded="true" signature="6:28" ph="..." />
+            <marker date="1526280821580" expanded="true" signature="48:104" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="95:102" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/IMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821581" expanded="true" signature="35:425" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="64:70" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="109:141" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="181:270" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="313:423" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/MessageDispatherComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821581" expanded="false" signature="6:62" ph="..." />
+            <marker date="1526280821581" expanded="true" signature="82:2891" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="192:284" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="256:281" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="391:481" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="454:478" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="484:525" ph="/// 消息分发组件 ... " />
+            <marker date="1526280821581" expanded="true" signature="577:2889" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="712:736" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="758:2121" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="1131:2117" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="1250:1277" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="1376:1465" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="1634:1692" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="1785:2112" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="1886:1916" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="2186:2340" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="2233:2297" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="2412:2778" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="2512:2602" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="2643:2774" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="2656:2714" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="2738:2769" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="2812:2886" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="2840:2862" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/OpcodeTypeComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821581" expanded="true" signature="6:44" ph="..." />
+            <marker date="1526280821581" expanded="true" signature="64:1370" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="162:248" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="220:245" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="295:1368" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="409:1067" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="501:834" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="613:640" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="745:772" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="867:1063" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="985:1012" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="1105:1161" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="1199:1257" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="1291:1365" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="1319:1341" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/UI/UILobby/Component/UILobbyComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821583" expanded="false" signature="6:69" ph="..." />
+            <marker date="1526280821583" expanded="true" signature="89:2597" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="176:259" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="231:256" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="304:2595" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="382:1169" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="1194:1342" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="1376:1711" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="1387:1656" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="1679:1707" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="1747:2038" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="1758:1983" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="2006:2034" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="2074:2296" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="2329:2592" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="2340:2536" ph="{...}" />
+            <marker date="1526280821583" expanded="true" signature="2559:2587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/IMHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821581" expanded="true" signature="6:28" ph="..." />
+            <marker date="1526280821581" expanded="true" signature="48:248" ph="{...}" />
+            <marker date="1526280821581" expanded="true" signature="92:179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Message/IActorMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821580" expanded="true" signature="116:429" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="160:195" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="261:267" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="330:336" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="397:427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/UI/UIComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821582" expanded="true" signature="6:100" ph="..." />
+            <marker date="1526280821582" expanded="true" signature="120:3129" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="202:280" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="252:277" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="359:435" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="408:432" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="438:479" ph="/// 管理所有UI ... " />
+            <marker date="1526280821582" expanded="true" signature="516:3127" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="756:1053" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="784:806" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="874:1002" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="930:957" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1076:1146" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1168:1961" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1303:1957" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1418:1445" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1558:1705" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1819:1905" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1994:2409" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="2005:2325" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="2348:2405" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="2448:2483" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="2518:2684" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="2571:2593" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="2711:2933" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="2767:2929" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="2828:2867" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="2963:3034" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="3073:3124" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/UI/UI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821582" expanded="true" signature="6:52" ph="..." />
+            <marker date="1526280821582" expanded="true" signature="72:1603" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="156:258" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="220:255" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="292:1601" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="316:374" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="327:370" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="548:615" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="649:866" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="677:699" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="766:794" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="901:959" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="985:1049" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1084:1221" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1147:1169" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1251:1598" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1319:1347" ph="{...}" />
+            <marker date="1526280821582" expanded="true" signature="1461:1488" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Config/ACategory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821576" expanded="false" signature="6:81" ph="..." />
+            <marker date="1526280821576" expanded="true" signature="101:1470" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="145:312" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="315:396" ph="/// 管理该所有的配置 ... " />
+            <marker date="1526280821576" expanded="true" signature="461:1468" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="544:1024" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="743:1020" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="756:922" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="814:844" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="946:1015" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1059:1107" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1070:1103" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1141:1149" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1195:1301" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1257:1284" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1339:1385" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="1421:1465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Config/ConfigComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821577" expanded="true" signature="6:62" ph="..." />
+            <marker date="1526280821577" expanded="true" signature="82:2466" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="172:254" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="226:251" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="341:421" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="394:418" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="424:499" ph="/// Config组件会扫描所有的有ConfigAttribute标签的配置,加载进来 ... " />
+            <marker date="1526280821577" expanded="true" signature="540:2464" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="660:684" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="706:1290" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="826:1286" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="938:965" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="1086:1174" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="1326:1546" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="1421:1507" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="1587:1810" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="1682:1768" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="1854:2017" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="1949:1976" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="2055:2275" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="2150:2236" ph="{...}" />
+            <marker date="1526280821577" expanded="true" signature="2318:2461" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/Config/ConfigHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821578" expanded="true" signature="6:47" ph="..." />
+            <marker date="1526280821578" expanded="true" signature="67:574" ph="{...}" />
+            <marker date="1526280821578" expanded="true" signature="103:572" ph="{...}" />
+            <marker date="1526280821578" expanded="true" signature="149:479" ph="{...}" />
+            <marker date="1526280821578" expanded="true" signature="160:376" ph="{...}" />
+            <marker date="1526280821578" expanded="true" signature="399:475" ph="{...}" />
+            <marker date="1526280821578" expanded="true" signature="522:569" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Entity/Scene.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821576" expanded="true" signature="18:517" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="43:157" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="194:515" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="322:330" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="365:373" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="407:512" ph="{...}" />
+            <marker date="1526280821576" expanded="true" signature="435:457" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Entity/Config/UnitConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821575" expanded="true" signature="34:317" ph="{...}" />
+            <marker date="1526280821575" expanded="true" signature="127:133" ph="{...}" />
+            <marker date="1526280821575" expanded="true" signature="169:315" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Helper/ExceptionHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821571" expanded="true" signature="6:28" ph="..." />
+            <marker date="1526280821571" expanded="true" signature="48:279" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="87:277" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="145:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Helper/JsonHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821571" expanded="true" signature="6:28" ph="..." />
+            <marker date="1526280821571" expanded="true" signature="48:794" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="82:792" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="127:169" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="212:431" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="357:381" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="487:714" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="640:664" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="747:789" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Helper/Log.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821571" expanded="true" signature="33:451" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="60:449" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="104:141" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="180:214" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="255:296" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="336:371" ph="{...}" />
+            <marker date="1526280821571" expanded="true" signature="411:446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Object/Component.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821572" expanded="true" signature="6:59" ph="..." />
+            <marker date="1526280821572" expanded="true" signature="79:1280" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="171:1278" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="322:546" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="333:371" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="378:542" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="443:537" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="587:645" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="598:641" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="748:784" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="823:882" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="834:878" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="907:993" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="1026:1275" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="1054:1076" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="1172:1217" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Object/ComponentWithId.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821572" expanded="true" signature="6:58" ph="..." />
+            <marker date="1526280821572" expanded="true" signature="78:521" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="166:519" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="307:345" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="383:408" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="442:516" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="470:492" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Object/Entity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821572" expanded="false" signature="6:126" ph="..." />
+            <marker date="1526280821572" expanded="true" signature="146:4920" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="222:4918" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="394:508" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="548:662" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="696:999" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="724:746" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="824:935" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="837:875" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="899:930" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="1043:1437" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="1092:1193" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="1307:1353" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="1494:1887" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="1548:1654" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="1757:1803" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="1953:2354" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="2007:2113" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="2224:2270" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="2431:2840" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="2485:2591" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="2710:2756" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="2928:3345" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="2982:3088" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="3215:3261" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="3401:3626" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="3495:3517" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="3668:3884" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="3757:3779" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="3934:4089" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="4028:4061" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="4133:4274" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="4222:4249" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="4312:4367" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="4403:4517" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="4551:4915" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="4562:4860" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="4682:4855" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="4742:4849" ph="{...}" />
+            <marker date="1526280821572" expanded="true" signature="4883:4911" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Base/Object/EventSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821573" expanded="false" signature="6:62" ph="..." />
+            <marker date="1526280821573" expanded="true" signature="82:12051" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="117:12049" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="1549:3717" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="1641:2984" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="1759:1786" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="1920:1995" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="2081:2157" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="2259:2347" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="2429:2502" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="2592:2671" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="2749:2819" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="2905:2979" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="3044:3696" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="3163:3691" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="3340:3407" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="3779:4109" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="3807:4105" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="4166:4317" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="4215:4278" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="4357:4882" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="4502:4560" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="4606:4664" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="4709:4766" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="4816:4878" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="4921:4971" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5013:5479" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5125:5147" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5204:5475" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5239:5266" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5339:5366" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5375:5415" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5439:5470" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5532:6013" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5644:5666" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5726:6009" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5761:5788" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5869:5896" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5905:5949" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="5973:6004" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6077:6567" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6189:6211" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6268:6563" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6303:6330" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6419:6446" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6455:6503" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6527:6558" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6642:7144" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6754:6776" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6833:7140" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6868:6895" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="6992:7019" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7028:7080" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7104:7135" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7187:7568" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7303:7325" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7385:7564" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7421:7448" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7457:7504" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7528:7559" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7590:8286" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7628:8222" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7772:7799" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7829:7856" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="7967:7994" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="8089:8217" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="8104:8152" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="8177:8211" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="8310:8851" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="8347:8847" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="8490:8517" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="8628:8655" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="8713:8842" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="8728:8777" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="8802:8836" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="8895:9285" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9015:9037" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9100:9281" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9137:9164" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9173:9221" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9245:9276" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9309:10042" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9368:9978" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9512:9539" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9569:9596" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9715:9742" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9843:9973" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9858:9908" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="9933:9967" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="10070:10834" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="10112:10762" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="10260:10287" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="10317:10344" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="10479:10506" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="10623:10757" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="10638:10692" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="10717:10751" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="10866:11122" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="10950:10972" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11010:11118" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11023:11058" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11082:11113" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11162:11419" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11246:11268" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11306:11415" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11319:11355" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11379:11410" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11467:11727" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11551:11573" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11611:11723" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11624:11663" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11687:11718" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11783:12046" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11867:11889" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11927:12042" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="11940:11982" ph="{...}" />
+            <marker date="1526280821573" expanded="true" signature="12006:12037" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/Actor_CreateUnitsHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821578" expanded="false" signature="6:33" ph="..." />
+            <marker date="1526280821578" expanded="true" signature="53:1008" ph="{...}" />
+            <marker date="1526280821578" expanded="true" signature="143:1006" ph="{...}" />
+            <marker date="1526280821578" expanded="true" signature="228:1003" ph="{...}" />
+            <marker date="1526280821578" expanded="true" signature="535:952" ph="{...}" />
+            <marker date="1526280821578" expanded="true" signature="592:619" ph="{...}" />
+            <marker date="1526280821578" expanded="true" signature="866:947" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/Actor_TestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821579" expanded="true" signature="34:229" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="110:227" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="188:224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/Frame_ClickMapHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821579" expanded="true" signature="6:33" ph="..." />
+            <marker date="1526280821579" expanded="true" signature="53:539" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="137:537" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="219:534" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/G2C_TestHotfixHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821579" expanded="true" signature="34:262" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="132:260" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="221:257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/TestHotfixSubscribMonoEvent_LogString.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526280821580" expanded="true" signature="34:249" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="174:247" ph="{...}" />
+            <marker date="1526280821580" expanded="true" signature="217:244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/Module/FrameSync/OperaComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+          <folding>
+            <marker date="1526280821579" expanded="true" signature="6:47" ph="..." />
+            <marker date="1526280821579" expanded="true" signature="67:1534" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="161:260" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="220:254" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="349:432" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="403:429" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="473:1532" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="566:627" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="657:1189" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="712:1179" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="903:1165" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="1225:1526" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="1242:1462" ph="{...}" />
+            <marker date="1526280821579" expanded="true" signature="1488:1522" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity/Hotfix/UI/UILogin/Component/UILoginComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+          <folding>
+            <marker date="1526282362705" expanded="false" signature="6:87" ph="..." />
+            <marker date="1526282362705" expanded="true" signature="107:2448" ph="{...}" />
+            <marker date="1526282362705" expanded="true" signature="194:277" ph="{...}" />
+            <marker date="1526282362705" expanded="true" signature="249:274" ph="{...}" />
+            <marker date="1526282362705" expanded="true" signature="321:2446" ph="{...}" />
+            <marker date="1526282362705" expanded="true" signature="408:663" ph="{...}" />
+            <marker date="1526282362705" expanded="true" signature="694:2443" ph="{...}" />
+            <marker date="1526282362705" expanded="true" signature="705:2388" ph="{...}" />
+            <marker date="1526282362705" expanded="true" signature="2411:2439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
