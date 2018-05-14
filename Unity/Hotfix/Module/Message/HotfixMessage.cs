@@ -145,4 +145,125 @@ namespace ETHotfix
 
 	}
 
+// 心跳包
+	[Message(HotfixOpcode.PingRequest)]
+	[ProtoContract]
+	public partial class PingRequest: IRequest
+	{
+		[ProtoMember(90, IsRequired = true)]
+		public int RpcId { get; set; }
+
+	}
+
+	[Message(HotfixOpcode.PingResponse)]
+	[ProtoContract]
+	public partial class PingResponse: IResponse
+	{
+		[ProtoMember(90, IsRequired = true)]
+		public int RpcId { get; set; }
+
+		[ProtoMember(91, IsRequired = true)]
+		public int Error { get; set; }
+
+		[ProtoMember(92, IsRequired = true)]
+		public string Message { get; set; }
+
+	}
+
+// 用户登录
+	[Message(HotfixOpcode.LoginRequest)]
+	[ProtoContract]
+	public partial class LoginRequest: IRequest
+	{
+		[ProtoMember(90, IsRequired = true)]
+		public int RpcId { get; set; }
+
+		[ProtoMember(1, IsRequired = true)]
+		public string UserName;
+
+		[ProtoMember(2, IsRequired = true)]
+		public string Password;
+
+	}
+
+	[Message(HotfixOpcode.LoginResponse)]
+	[ProtoContract]
+	public partial class LoginResponse: IResponse
+	{
+		[ProtoMember(90, IsRequired = true)]
+		public int RpcId { get; set; }
+
+		[ProtoMember(91, IsRequired = true)]
+		public int Error { get; set; }
+
+		[ProtoMember(92, IsRequired = true)]
+		public string Message { get; set; }
+
+		[ProtoMember(1, IsRequired = true)]
+		public string Address;
+
+		[ProtoMember(2, IsRequired = true)]
+		public long Key;
+
+	}
+
+// 用户注册
+	[Message(HotfixOpcode.RegisteredRequest)]
+	[ProtoContract]
+	public partial class RegisteredRequest: IRequest
+	{
+		[ProtoMember(90, IsRequired = true)]
+		public int RpcId { get; set; }
+
+		[ProtoMember(1, IsRequired = true)]
+		public string UserName;
+
+		[ProtoMember(2, IsRequired = true)]
+		public string Password;
+
+	}
+
+	[Message(HotfixOpcode.RegisteredResponse)]
+	[ProtoContract]
+	public partial class RegisteredResponse: IResponse
+	{
+		[ProtoMember(90, IsRequired = true)]
+		public int RpcId { get; set; }
+
+		[ProtoMember(91, IsRequired = true)]
+		public int Error { get; set; }
+
+		[ProtoMember(92, IsRequired = true)]
+		public string Message { get; set; }
+
+	}
+
+// 登录Gate服务器
+	[Message(HotfixOpcode.EntherGateRequest)]
+	[ProtoContract]
+	public partial class EntherGateRequest: IRequest
+	{
+		[ProtoMember(90, IsRequired = true)]
+		public int RpcId { get; set; }
+
+		[ProtoMember(1, IsRequired = true)]
+		public long Key;
+
+	}
+
+	[Message(HotfixOpcode.EntherGateResponse)]
+	[ProtoContract]
+	public partial class EntherGateResponse: IResponse
+	{
+		[ProtoMember(90, IsRequired = true)]
+		public int RpcId { get; set; }
+
+		[ProtoMember(91, IsRequired = true)]
+		public int Error { get; set; }
+
+		[ProtoMember(92, IsRequired = true)]
+		public string Message { get; set; }
+
+	}
+
 }

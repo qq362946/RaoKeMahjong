@@ -38,7 +38,7 @@
 
 			base.Dispose();
 
-			this.ModelScene.Dispose();
+			ModelScene?.Dispose();
 		}
 	}
 }

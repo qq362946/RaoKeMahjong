@@ -1,0 +1,6 @@
+/Users/sining/Projects/JuAnChess/RaoKeMahjong/Unity/Temp/UnityVS_bin/Debug/Hotfix.dll
+/Users/sining/Projects/JuAnChess/RaoKeMahjong/Unity/Temp/UnityVS_bin/Debug/Hotfix.pdb
+/Users/sining/Projects/JuAnChess/RaoKeMahjong/Unity/Hotfix/obj/Debug/Assembly-CSharp-Hotfix.csprojResolveAssemblyReference.cache
+/Users/sining/Projects/JuAnChess/RaoKeMahjong/Unity/Hotfix/obj/Debug/Assembly-CSharp-Hotfix.csproj.CoreCompileInputs.cache
+/Users/sining/Projects/JuAnChess/RaoKeMahjong/Unity/Hotfix/obj/Debug/Hotfix.dll
+/Users/sining/Projects/JuAnChess/RaoKeMahjong/Unity/Hotfix/obj/Debug/Hotfix.pdb

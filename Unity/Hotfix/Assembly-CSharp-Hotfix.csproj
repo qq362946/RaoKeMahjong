@@ -232,6 +232,13 @@
     <Compile Include="Base\Object\IChangeSystem.cs" />
     <Compile Include="Base\Object\IDestroySystem.cs" />
     <Compile Include="Base\Object\IStartSystem.cs" />
+    <Compile Include="Code\Module\Net\PingComponent.cs" />
+    <Compile Include="Code\Module\Scene\SceneHelperComponent.cs" />
+    <Compile Include="Code\Module\UI\AUIFactory.cs" />
+    <Compile Include="Code\Module\UI\UIManageComponent.cs" />
+    <Compile Include="Code\UI\InitSceneStart_CreateLoginUI.cs" />
+    <Compile Include="Code\UI\RaoKeMahjong\RaoKeLogin\UIRaoKeLoginComponent.cs" />
+    <Compile Include="Code\UI\RaoKeMahjong\RaoKeLogin\UIRaokeLoginFactory.cs" />
     <Compile Include="Module\FrameSync\OperaComponent.cs" />
     <Compile Include="Entity\Config\UnitConfig.cs" />
     <Compile Include="Module\FrameSync\TestHotfixSubscribMonoEvent_LogString.cs" />
@@ -277,7 +284,6 @@
     <Compile Include="UI\UILobby\Component\UILobbyComponent.cs" />
     <Compile Include="UI\UILobby\Factory\UILobbyFactory.cs" />
     <Compile Include="UI\UILogin\Component\UILoginComponent.cs" />
-    <Compile Include="UI\UILogin\Event\InitSceneStart_CreateLoginUI.cs" />
     <Compile Include="UI\UILogin\Factory\UILoginFactory.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -290,15 +296,18 @@
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="UI\UILogin\Event" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <PropertyGroup>
+  <!-- <PropertyGroup>
     <PostBuildEvent>"$(ProjectDir)\..\Tools\pdb2mdb.exe" $(TargetFileName)</PostBuildEvent>
-  </PropertyGroup>
+  </PropertyGroup> -->
   <Target Name="BeforeBuild">
   </Target>
   <Target Name="AfterBuild">
     <Copy SourceFiles="$(OutDir)$(TargetName).dll" DestinationFiles="$(ProjectDir)/../Assets/Res/Code/$(TargetName).dll.bytes" />
     <Copy SourceFiles="$(OutDir)$(TargetName).pdb" DestinationFiles="$(ProjectDir)/../Assets/Res/Code/$(TargetName).pdb.bytes" />
-    <Copy SourceFiles="$(OutDir)$(TargetName).dll.mdb" DestinationFiles="$(ProjectDir)/../Assets/Res/Code/$(TargetName).mdb.bytes" />
+    <!-- <Copy SourceFiles="$(OutDir)$(TargetName).dll.mdb" DestinationFiles="$(ProjectDir)/../Assets/Res/Code/$(TargetName).mdb.bytes" /> -->
   </Target>
 </Project>

@@ -47,3 +47,46 @@ message G2C_PlayerInfo // IResponse
 {
 	repeated PlayerInfo PlayerInfos = 1;
 }
+// 心跳包
+message PingRequest // IRequest
+{
+	
+}
+
+message PingResponse // IResponse
+{
+	
+}
+// 用户登录
+message LoginRequest // IRequest
+{
+	required string	UserName	 = 1;	// 帐号
+
+	required string	Password = 2;	// 密码
+}
+message LoginResponse // IResponse
+{
+	required string	Address = 1;
+
+	required int64	Key = 2;
+}
+// 用户注册
+message RegisteredRequest // IRequest
+{
+	required string	UserName	 = 1;	// 帐号
+
+	required string	Password = 2;	// 密码
+}
+message RegisteredResponse // IResponse
+{
+	
+}
+// 登录Gate服务器
+message EntherGateRequest // IRequest
+{
+	required int64 Key = 1;		
+}
+message EntherGateResponse // IResponse
+{
+		
+}

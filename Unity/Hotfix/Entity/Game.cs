@@ -1,4 +1,6 @@
-﻿namespace ETHotfix
+﻿using System;
+
+namespace ETHotfix
 {
 	public static class Game
 	{
@@ -39,7 +41,7 @@
 
 		public static void Close()
 		{
-			scene.Dispose();
+			scene?.Dispose();
 			scene = null;
 			eventSystem = null;
 			objectPool = null;

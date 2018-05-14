@@ -1907,6 +1907,12 @@
               <e p="True.cs" t="Include" />
               <e p="UIScale.cs" t="Include" />
             </e>
+            <e p="Code" t="Include">
+              <e p="Module" t="Include">
+                <e p="MonoEventComponent.cs" t="Include" />
+                <e p="SceneManagerComponent.cs" t="Include" />
+              </e>
+            </e>
             <e p="Component" t="Include">
               <e p="Config" t="Include">
                 <e p="ClientConfig.cs" t="Include" />
@@ -2684,6 +2690,29 @@
               <e p="ObjectPool.cs" t="Include" />
             </e>
           </e>
+          <e p="Code" t="Include">
+            <e p="Module" t="Include">
+              <e p="Net" t="Include">
+                <e p="PingComponent.cs" t="Include" />
+              </e>
+              <e p="Scene" t="Include">
+                <e p="SceneHelperComponent.cs" t="Include" />
+              </e>
+              <e p="UI" t="Include">
+                <e p="AUIFactory.cs" t="Include" />
+                <e p="UImanageComponent.cs" t="Include" />
+              </e>
+            </e>
+            <e p="UI" t="Include">
+              <e p="InitSceneStart_CreateLoginUI.cs" t="Include" />
+              <e p="RaoKeMahjong" t="Include">
+                <e p="RaoKeLogin" t="Include">
+                  <e p="UIRaoKeLoginComponent.cs" t="Include" />
+                  <e p="UIRaokeLoginFactory.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
           <e p="Entity" t="Include">
             <e p="Config" t="Include">
               <e p="UnitConfig.cs" t="Include" />
@@ -2744,9 +2773,7 @@
               <e p="Component" t="Include">
                 <e p="UILoginComponent.cs" t="Include" />
               </e>
-              <e p="Event" t="Include">
-                <e p="InitSceneStart_CreateLoginUI.cs" t="Include" />
-              </e>
+              <e p="Event" t="Include" />
               <e p="Factory" t="Include">
                 <e p="UILoginFactory.cs" t="Include" />
               </e>
